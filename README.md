@@ -1,2 +1,2 @@
-# soen343 - SHS project Fall 20202
+# soen343 - SHS project Fall 2020
 
