@@ -1,1 +1,2 @@
-# soen343
+# soen343 - SHS project
+
